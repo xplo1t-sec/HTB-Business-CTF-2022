@@ -49,4 +49,4 @@ This will create a file at `/var/www/html/cmd.php` that will contain the php cod
 
 ### Automate it
 
-<script id="asciicast-ABKXeshfBlHoNLLBPKzE1GLgc" src="https://asciinema.org/a/ABKXeshfBlHoNLLBPKzE1GLgc.js" async></script>
+[![asciicast](https://asciinema.org/a/ABKXeshfBlHoNLLBPKzE1GLgc.svg)](https://asciinema.org/a/ABKXeshfBlHoNLLBPKzE1GLgc)
